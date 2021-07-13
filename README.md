@@ -1,25 +1,11 @@
-# Data-Structures-and-more
+**C & C++**
 
-Will be based on C or C++ or whatsoever.
+Just random things I do and practice
+Mostly C & C++
+Corrections and advice are always welcome 
 
-Maybe bit of exercises on algorithms
+teehee
 
-(but will focus on data structures primarily)
-
-
-Will have some exercises on the book
-
-including my version of them
-
-and hopefully some more creative or useful extensions to it
-
-
-Helpful Books & Links:
-
-Understanding and Using C Pointers by Richard Reese (O'REILLY)
-
-열혈 C 프로그래밍 by 윤성우 (Orange Media)
-
-..and more!
-
-2019/12/29
+Sources:
+https://www.acmicpc.net
+Understanding and Using C Pointers by Richard Reese
